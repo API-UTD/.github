@@ -1,7 +1,7 @@
 # Welcome to the Accessible Prosthetics Initiative at the University of Texas at Dallas! 
 
 ## Our Mission 
-Our mission to increase accessibility to prosthetics through education, community engagement, and device development
+We aim to increase prosthetic accessibility through education, community engagement, and device development.
 
 ## Projects 
 We have several projects here at UTD API and hope to add more in the near future!
@@ -9,7 +9,7 @@ We have several projects here at UTD API and hope to add more in the near future
 * Mechanical Hand
 * Mechanical Arm
 * Electric Arm
-
+Each project has its own repository. 
 
 <!--
 
